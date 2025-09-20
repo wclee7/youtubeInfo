@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "youtube_agent_server": {
+      "command": "python",
+      "args": ["mcp_server.py"]
+    }
+  }
+}

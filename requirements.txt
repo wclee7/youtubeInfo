@@ -1,0 +1,7 @@
+mcp
+fastmcp
+youtube-transcript-api
+python-dotenv
+requests
+streamlit
+openai
